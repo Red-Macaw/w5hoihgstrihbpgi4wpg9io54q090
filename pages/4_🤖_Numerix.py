@@ -3,7 +3,7 @@ import time
 import google.generativeai as genai
 st.set_page_config(page_title="Numerix", page_icon="🤖")
 
-genai.configure(api_key="AIzaSyC3DEsWDFmTp-GmXpG2zo7GGscER6uid34")
+genai.configure(api_key="AIzaSyBtrqgyF59sayLsXvw549YXgmxhxm8Lgb0")
 
 generation_config = {
   "temperature": 1,
