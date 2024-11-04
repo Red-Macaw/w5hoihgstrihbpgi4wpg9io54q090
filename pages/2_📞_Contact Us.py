@@ -1,7 +1,7 @@
 import streamlit as st  
 
 st.header(":mailbox: Contact Us!")
-
+st.set_page_config(page_title="Contact Us", page_icon=":mailbox:")
 
 contact_form = """
 <form action="https://formsubmit.co/mndon999@gmail.com" method="POST">
