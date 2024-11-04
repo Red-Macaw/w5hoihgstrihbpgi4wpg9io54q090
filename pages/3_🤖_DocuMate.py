@@ -55,7 +55,7 @@ def Response(response):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Chat with multiple PDFs", page_icon=":books:")
+    st.set_page_config(page_title="Documate", page_icon=":books:")
 
     if "conversation" not in st.session_state:
         st.session_state.conversation = None
