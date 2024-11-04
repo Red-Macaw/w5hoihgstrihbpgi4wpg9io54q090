@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import google.generativeai as genai
-
+st.set_page_config(page_title="Numerix", page_icon="🤖")
 
 genai.configure(api_key="AIzaSyC3DEsWDFmTp-GmXpG2zo7GGscER6uid34")
 
