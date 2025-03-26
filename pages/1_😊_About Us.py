@@ -1,46 +1,49 @@
 import streamlit as st
 
 # Title
-st.title("About Us")
+st.title("About Me")
 st.write("Empowering Minds, Shaping Futures")
 
 # Introduction Section
-st.header("Who We Are")
+st.header("Who Am I")
 st.write("""
-At **NeuraSwift**, we're a team of educators, technologists, and innovators passionate about making education accessible to everyone. 
-We believe that learning should be empowering, engaging, and effective—and with AI, we’re building a future where knowledge knows no bounds.
+Hi, I'm **Muthu Nilavan**, also known as **Red Macaw**. I'm an 8th-grade programmer and AI enthusiast passionate about making education more accessible and enjoyable using technology. I created **NeuraSwift**, a platform that integrates AI with learning to make studying engaging and effective.
 
-NeuraSwift was founded by **Muthu Nilavan (Red Macaw), an 8th-grade programmer and AI enthusiast**, with a vision to make high-quality education accessible to all. Driven by curiosity and innovation, Red Macaw combines the power of AI and intuitive design to create bots that assist, support, and inspire learners on their educational journeys.
+My journey into AI and coding started with a curiosity to solve problems and help students learn better. With a strong foundation in Python, web development, and AI, I develop educational bots that simplify complex concepts and make learning interactive.
 """)
 
-# Mission Section
-st.header("Our Mission")
+# My Mission
+st.header("My Mission")
 st.write("""
-Our mission is simple yet powerful: **Empowering Minds, Shaping Futures.** We envision a world where learning is accessible and enjoyable for everyone, regardless of their background or resources. With NeuraSwift, we aim to:
+My goal is simple yet powerful: **Empowering Minds, Shaping Futures.** I believe that education should be free, engaging, and available to everyone, regardless of their background. Through NeuraSwift, I aim to:
 
-- **Break Down Educational Barriers**: High-quality education should be available to all, which is why our platform is free for everyone.
-- **Enhance Learning Through AI**: Each NeuraSwift bot is designed to offer personalized assistance, making complex topics understandable and engaging.
-- **Drive the Future of Education**: We’re constantly innovating, with new bots and features in development to meet the needs of the next generation of learners.
+- **Break Down Educational Barriers**: Learning should be accessible to all, which is why NeuraSwift is free for everyone.
+- **Enhance Learning Through AI**: I create AI bots that provide step-by-step explanations and interactive lessons.
+- **Innovate for the Future**: I'm constantly working on new features and tools to make learning smarter and more fun.
 """)
 
-# Our Technology Section
-st.header("Our Technology")
+# My Work
+st.header("What I Do")
 st.write("""
-At NeuraSwift, we harness the latest in AI and machine learning technology to develop educational bots that are both intelligent and user-friendly. Our bots are designed to understand questions, provide clear explanations, and guide learners step-by-step through complex concepts.
+I specialize in building AI-powered educational tools that make learning easier and more engaging. Some of my projects include:
 
-Our current lineup includes **Numerix**, a math tutor bot that simplifies problem-solving, and **DocuBot**, a PDF assistant that makes reading and understanding documents effortless. We are dedicated to expanding our technology, adding new features and subjects to our platform.
+- **Numerix** – A math tutor bot that simplifies problem-solving and makes math fun.
+- **DocuBot** – A PDF assistant that helps students quickly understand documents.
+- **AURA** – A chatbot designed to assist users with AI-powered conversations.
+- **OpenBot DIY** – A fun robotics project integrating AI for intelligent control.
+
+I'm always experimenting with new technologies and ideas to improve how students learn.
 """)
 
-# Future Goals Section
-st.header("Our Vision for the Future")
+# Future Goals
+st.header("What’s Next")
 st.write("""
-At NeuraSwift, we’re just getting started. Our goal is to expand our suite of educational bots across various subjects and learning styles, making it easier for students of all ages to access the tools they need to succeed. We’re excited to bring more features, subjects, and interactive capabilities to NeuraSwift in the coming years.
+I’m just getting started! My future plans include expanding NeuraSwift with more AI tutors, interactive learning experiences, and innovative educational tools. I want to make AI-powered learning available for students worldwide and continue improving the way education is delivered.
 """)
 
-# Closing Statement
+# Connect With Me
 st.write("""
-Thank you for being part of our journey. Together, we're shaping the future of education, one learner at a time.
-
-👨‍💻 **Creator:** Muthu Nilavan (Red Macaw)  
-🔗 **GitHub:** [Red Macaw](https://github.com/Red-Macaw/)
+🚀 **Creator:** Muthu Nilavan (Red Macaw)  
+🔗 **GitHub:** [Red Macaw](https://github.com/Red-Macaw/)  
+📩 **Contact:** Reach out to me for collaborations, ideas, or just to chat about AI and coding!
 """)
