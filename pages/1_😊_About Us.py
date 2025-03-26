@@ -10,7 +10,7 @@ st.write("""
 At **NeuraSwift**, we're a team of educators, technologists, and innovators passionate about making education accessible to everyone. 
 We believe that learning should be empowering, engaging, and effective—and with AI, we’re building a future where knowledge knows no bounds.
 
-Founded on the principles of inclusivity and advancement, NeuraSwift strives to make high-quality educational tools available to all learners, completely free of charge. Our platform combines the power of AI with intuitive design to create bots that assist, support, and inspire learners on their educational journeys.
+NeuraSwift was founded by **Muthu Nilavan (Red Macaw), an 8th-grade programmer and AI enthusiast**, with a vision to make high-quality education accessible to all. Driven by curiosity and innovation, Red Macaw combines the power of AI and intuitive design to create bots that assist, support, and inspire learners on their educational journeys.
 """)
 
 # Mission Section
@@ -28,11 +28,8 @@ st.header("Our Technology")
 st.write("""
 At NeuraSwift, we harness the latest in AI and machine learning technology to develop educational bots that are both intelligent and user-friendly. Our bots are designed to understand questions, provide clear explanations, and guide learners step-by-step through complex concepts.
 
-Our current lineup includes **Numerix**, a math tutor bot that simplifies problem-solving and **DocuBot**, a PDF assistant that makes reading and understanding documents effortless. We are dedicated to expanding our technology, adding new features and subjects to our platform.
+Our current lineup includes **Numerix**, a math tutor bot that simplifies problem-solving, and **DocuBot**, a PDF assistant that makes reading and understanding documents effortless. We are dedicated to expanding our technology, adding new features and subjects to our platform.
 """)
-
-
-
 
 # Future Goals Section
 st.header("Our Vision for the Future")
@@ -43,4 +40,7 @@ At NeuraSwift, we’re just getting started. Our goal is to expand our suite of 
 # Closing Statement
 st.write("""
 Thank you for being part of our journey. Together, we're shaping the future of education, one learner at a time.
+
+👨‍💻 **Creator:** Muthu Nilavan (Red Macaw)  
+🔗 **GitHub:** [Red Macaw](https://github.com/Red-Macaw/)
 """)
